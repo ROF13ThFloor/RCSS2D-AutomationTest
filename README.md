@@ -11,7 +11,7 @@ in this project we will try to Configure Continuose Integration and Delivery pip
 
 # Pipeline of project 
 
-![](/home/mojtaba/Desktop/Screenshot 2020-09-15 01:04:26.png)
+![Screenshot 2020-09-15 01:04:26](pictures/Screenshot 2020-09-15 01:04:26.png)
 
 we have 3 stages in this project CI Pipeline : 
 
@@ -70,31 +70,31 @@ for monitoring the staged that executed in the the prev section we designed a co
 
 scenario of this web based project is that first of all user need to select the project that wanna to compare the executed test on it . 
 
-![Screenshot 2020-09-14 090649](/media/mojtaba/OS/Users/moshtebam/Desktop/Screenshot 2020-09-14 090649.png)
+![Screenshot 2020-09-14 090649](pictures/Screenshot 2020-09-14 090649.png)
 
 in this tools all of the 2d soccer simulation team member can maintenance and improve the idea of theirs . 
 
-![Screenshot 2020-09-14 090705](/media/mojtaba/OS/Users/moshtebam/Desktop/Screenshot 2020-09-14 090705.png)
+![Screenshot 2020-09-14 090705](pictures/Screenshot 2020-09-14 090705.png)
 
 login page for team member designed  
 
-![Screenshot 2020-09-14 090719](/media/mojtaba/OS/Users/moshtebam/Desktop/Screenshot 2020-09-14 090719.png)
+![Screenshot 2020-09-14 090719](pictures/Screenshot 2020-09-14 090719.png)
 
 after select the project that we need commits test results all the test executed on its project will show  
 
-![Screenshot 2020-09-14 091136](/media/mojtaba/OS/Users/moshtebam/Desktop/Screenshot 2020-09-14 091321.png)
+![Screenshot 2020-09-14 091136](pictures/Screenshot 2020-09-14 091321.png)
 
 for compare we use Google charts and other framework such as laravel in php and jquery library in javascrips 
 
-![Screenshot 2020-09-14 091343](/media/mojtaba/OS/Users/moshtebam/Desktop/Screenshot 2020-09-14 091343.png)
+![Screenshot 2020-09-14 091343](pictures/Screenshot 2020-09-14 091343.png)
 
 Expected winrate and winrate is very important thing in this section . 
 
-![Screenshot 2020-09-14 091445](/media/mojtaba/OS/Users/moshtebam/Desktop/Screenshot 2020-09-14 091445.png)
+![Screenshot 2020-09-14 091445](pictures/Screenshot 2020-09-14 091445.png)
 
 in the above picture we can see compared results that we select in the prev pages 
 
-![Screenshot 2020-09-14 091456](/media/mojtaba/OS/Users/moshtebam/Desktop/Screenshot 2020-09-14 091456.png)
+![Screenshot 2020-09-14 091456](pictures/Screenshot 2020-09-14 091456.png)
 
 ###### more information and contact us : 
 
