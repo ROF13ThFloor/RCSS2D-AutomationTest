@@ -1,0 +1,8 @@
+#!/bin/bash
+
+VERSION="Release"
+
+
+    ulimit -t 300 && ulimit -c unlimited && cd /var/lib/gitlab-runner/builds/c_ugVwfZ/0/kn2c-cicd/ci-developement/our/src && ./start.sh -h "$2" -p "$3" -t "KN2C" &>> ~/log2.txt 
+
+sleep 5
