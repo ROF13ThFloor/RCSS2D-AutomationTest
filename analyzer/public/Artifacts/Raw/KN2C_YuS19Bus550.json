@@ -1,0 +1,27 @@
+{
+    "GameCount": 50, 
+    "OppTeaminfo": [
+        {
+            "AvgPoint": 1.5, 
+            "Point": 75, 
+            "name": "IT", 
+            "AvgGoal": 0.88, 
+            "Goal": 44
+        }
+    ], 
+    "OurTeaminfo": [
+        {
+            "ExpWinrate": 40.625, 
+            "AvgPoint": 1.14, 
+            "WinRate": 26.0, 
+            "name": "KN2C", 
+            "LostCount": 19, 
+            "Point": 57, 
+            "DrawCount": 18, 
+            "WinCount": 13, 
+            "AvgGoal": 0.64, 
+            "Goal": 32
+        }
+    ], 
+    "formation_name": "YuS19Bus550"
+}

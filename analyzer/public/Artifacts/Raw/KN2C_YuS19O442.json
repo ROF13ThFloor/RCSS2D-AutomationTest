@@ -1,0 +1,27 @@
+{
+    "GameCount": 50, 
+    "OppTeaminfo": [
+        {
+            "AvgPoint": 0.86, 
+            "Point": 43, 
+            "name": "IT", 
+            "AvgGoal": 1.56, 
+            "Goal": 78
+        }
+    ], 
+    "OurTeaminfo": [
+        {
+            "ExpWinrate": 72.5, 
+            "AvgPoint": 1.94, 
+            "WinRate": 57.99999999999999, 
+            "name": "KN2C", 
+            "LostCount": 11, 
+            "Point": 97, 
+            "DrawCount": 10, 
+            "WinCount": 29, 
+            "AvgGoal": 2.22, 
+            "Goal": 111
+        }
+    ], 
+    "formation_name": "YuS19O442"
+}

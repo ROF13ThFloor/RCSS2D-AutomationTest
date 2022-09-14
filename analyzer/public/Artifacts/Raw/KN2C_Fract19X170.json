@@ -1,0 +1,27 @@
+{
+    "GameCount": 50, 
+    "OppTeaminfo": [
+        {
+            "AvgPoint": 0.9, 
+            "Point": 45, 
+            "name": "IT", 
+            "AvgGoal": 1.32, 
+            "Goal": 66
+        }
+    ], 
+    "OurTeaminfo": [
+        {
+            "ExpWinrate": 71.42857142857143, 
+            "AvgPoint": 1.8, 
+            "WinRate": 50.0, 
+            "name": "KN2C", 
+            "LostCount": 10, 
+            "Point": 90, 
+            "DrawCount": 15, 
+            "WinCount": 25, 
+            "AvgGoal": 2.02, 
+            "Goal": 101
+        }
+    ], 
+    "formation_name": "Fract19X170"
+}

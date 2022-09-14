@@ -1,0 +1,24 @@
+{
+    "GameCount": 195, 
+    "OppTeaminfo": [
+        {
+            "AvgPoint": 2.7435897435897436, 
+            "Goal": 663, 
+            "AvgGoal": 3.4, 
+            "Point": 535
+        }
+    ], 
+    "OurTeaminfo": [
+        {
+            "AvgPoint": 0.17435897435897435, 
+            "WinRate": 3.076923076923077, 
+            "Goal": 169, 
+            "LostCount": 173, 
+            "Point": 34, 
+            "DrawCount": 16, 
+            "WinCount": 6, 
+            "AvgGoal": 0.8666666666666667, 
+            "ExpWinrate": 3.3519553072625703
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "GameCount": 1, 
+    "OppTeaminfo": [
+        {
+            "AvgPoint": 1.0, 
+            "Point": 1, 
+            "name": "razi", 
+            "AvgGoal": 0.0, 
+            "Goal": 0
+        }
+    ], 
+    "OurTeaminfo": [
+        {
+            "ExpWinrate": 100.0, 
+            "AvgPoint": 1.0, 
+            "WinRate": 0.0, 
+            "name": "KN2C", 
+            "LostCount": 0, 
+            "Point": 1, 
+            "DrawCount": 1, 
+            "WinCount": 0, 
+            "AvgGoal": 0.0, 
+            "Goal": 0
+        }
+    ], 
+    "formation_name": "Fract19T15"
+}
